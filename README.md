@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/olros)
 <a href="https://github.com/olros">
   <!--  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=olros&count_private=true&hide=stars&theme=dark" />
